@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# Traning Images Dataset 
+lfw-deepfunneled-50class/
+
+# Test Images Dataset
+lfw-deepfunneled-test/
+lfw-deepfunneled-2images-test/
+lfw-deepfunneled-augmentedV1-test/
+lfw-deepfunneled-augmentedV2-test/
