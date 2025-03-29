@@ -24,19 +24,19 @@ Each model caters to different application needs, from mobile authentication to 
 ### Pair-Wise Evaluation
 | Model          | Precision Macro average (%) | Recall Macro average (%) | F1-Score Macro average (%) | Accuracy (%) |
 |:--------------:|:---------------------------:|:------------------------:|:--------------------------:|:------------:|
-| [GhostFaceNet] | 99                          | 99                       | 99                         | 99           |
-| [Facenet512]   | 99                          | 99                       | 98                         | 99           |
-| [SFace]        | 99                          | 99                       | 98                         | 99           |
-| [Facenet]      | 99                          | 94                       | 95                         | 94           |
-| [ArcFace]      | 88                          | 90                       | 88                         | 90           |
+| GhostFaceNet   | 99                          | 99                       | 99                         | 99           |
+|  Facenet512    | 99                          | 99                       | 98                         | 99           |
+|  SFace         | 99                          | 99                       | 98                         | 99           |
+|  Facenet       | 99                          | 94                       | 95                         | 94           |
+|  ArcFace       | 88                          | 90                       | 88                         | 90           |
 
 
 
 ### Augmented Evaluation
 | Model          | Precision Macro average (%) | Recall Macro average (%) | F1-Score Macro average (%) | Accuracy (%) |
 |:--------------:|:---------------------------:|:------------------------:|:--------------------------:|:------------:|
-| [GhostFaceNet] | 97                          | 92                       | 93                         | 92           |
-| [Facenet512]   | 94                          | 91                       | 91                         | 91           |
-| [ArcFace]      | 94                          | 89                       | 90                         | 89           |
-| [Facenet]      | 94                          | 88                       | 89                         | 88           |
-| [SFace]        | 96                          | 87                       | 89                         | 87           |
+|  GhostFaceNet  | 97                          | 92                       | 93                         | 92           |
+|  Facenet512    | 94                          | 91                       | 91                         | 91           |
+|  ArcFace       | 94                          | 89                       | 90                         | 89           |
+|  Facenet       | 94                          | 88                       | 89                         | 88           |
+|  SFace         | 96                          | 87                       | 89                         | 87           |
